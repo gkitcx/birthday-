@@ -41,3 +41,11 @@ p {
     margin: 5px;
     border-radius: 10px;
 }
+.home-img {
+  width: 280px;        /* change to 250–320 if you want */
+  max-width: 90%;
+  border-radius: 20px;
+  margin: 20px auto;
+  display: block;
+}
+
